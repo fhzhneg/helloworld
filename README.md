@@ -1,2 +1,3 @@
 # helloworld
-first python program  
+# first python program  
+print("hello,world")
